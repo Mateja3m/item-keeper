@@ -1,0 +1,32 @@
+header {
+    background: green;
+    color: white;
+    margin-bottom: 20px;
+}
+ header h1 {
+padding: 15px;
+ }
+
+ h2 {
+     padding: 15px;
+ }
+ #new-item {
+     width: 60%;
+     margin-left: 10px;
+ }
+ #button-addon2 {
+     margin-left: 5px;
+ }
+
+h3 {
+    margin-left: 10px;
+}
+ 
+ ul li {
+     width: 80%;
+     margin-left: 10px;
+     margin-bottom: 10px;
+ }
+ #hide {
+     margin-left: 10px;
+ }
